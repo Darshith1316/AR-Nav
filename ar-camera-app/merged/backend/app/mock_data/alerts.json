@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "title": "Hostile Activity Reported",
+    "description": "Multiple armed individuals spotted near your planned route.",
+    "severity": "high",
+    "location": {
+      "lat": 37.7833,
+      "lng": -122.4000,
+      "address": "Market St, San Francisco, CA"
+    },
+    "is_read": false,
+    "created_at": "2025-05-17T08:00:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Road Blockade Ahead",
+    "description": "Military checkpoint established on main route. Prepare identification.",
+    "severity": "medium",
+    "location": {
+      "lat": 37.5630,
+      "lng": -122.3255,
+      "address": "San Mateo, CA"
+    },
+    "is_read": false,
+    "created_at": "2025-05-17T07:45:00Z"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Use alternative route",
+    "description": "Based on recent intelligence, consider using the eastern approach to avoid potential threats.",
+    "related_route_id": 1,
+    "safety_score_improvement": 15,
+    "created_at": "2025-05-17T08:05:10.000Z"
+  },
+  {
+    "id": 2,
+    "title": "Maintain radio silence",
+    "description": "Enemy signals intelligence detected in your area. Maintain radio silence when approaching Checkpoint Alpha.",
+    "related_route_id": 1,
+    "safety_score_improvement": 10,
+    "created_at": "2025-05-17T08:05:15.000Z"
+  }
+]

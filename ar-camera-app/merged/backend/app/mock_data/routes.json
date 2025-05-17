@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "name": "Home to Work",
+    "start_location": {
+      "lat": 37.7749,
+      "lng": -122.4194,
+      "address": "San Francisco, CA"
+    },
+    "end_location": {
+      "lat": 37.4419,
+      "lng": -122.1430,
+      "address": "Palo Alto, CA"
+    },
+    "waypoints": [
+      {
+        "id": 1,
+        "lat": 37.6213,
+        "lng": -122.3790,
+        "address": "Millbrae, CA",
+        "sequence": 0
+      },
+      {
+        "id": 2,
+        "lat": 37.5630,
+        "lng": -122.3255,
+        "address": "San Mateo, CA",
+        "sequence": 1
+      }
+    ],
+    "is_active": true,
+    "safety_score": 85,
+    "created_at": "2025-05-16T14:30:00Z",
+    "updated_at": "2025-05-16T14:30:00Z"
+  },
+  {
+    "id": 2,
+    "name": "Gym Route",
+    "start_location": {
+      "lat": 37.7749,
+      "lng": -122.4194,
+      "address": "San Francisco, CA"
+    },
+    "end_location": {
+      "lat": 37.7833,
+      "lng": -122.4167,
+      "address": "Downtown San Francisco, CA"
+    },
+    "waypoints": [
+      {
+        "id": 3,
+        "lat": 37.7833,
+        "lng": -122.4000,
+        "address": "Market St, San Francisco, CA",
+        "sequence": 0
+      }
+    ],
+    "is_active": true,
+    "safety_score": 90,
+    "created_at": "2025-05-16T14:30:00Z",
+    "updated_at": "2025-05-16T14:30:00Z"
+  }
+]

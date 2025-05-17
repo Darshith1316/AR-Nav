@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Potential Ambush Location",
+    "location": {
+      "lat": 34.0505,
+      "lng": -118.2500,
+      "address": "Checkpoint Alpha"
+    },
+    "threat_type": "militants",
+    "strength": "squad",
+    "armament": "small arms",
+    "time_sensitivity": "high",
+    "description": "Intelligence suggests militant activity in this area. Approach with caution.",
+    "created_at": "2025-05-17T08:04:45.000Z"
+  },
+  {
+    "id": 2,
+    "title": "Sniper Position",
+    "location": {
+      "lat": 34.0470,
+      "lng": -118.2580,
+      "address": "Tall Building Rooftop"
+    },
+    "threat_type": "sniper",
+    "strength": "individual",
+    "armament": "long-range rifle",
+    "time_sensitivity": "medium",
+    "description": "Confirmed sniper position with line of sight to main avenue.",
+    "created_at": "2025-05-17T08:04:50.000Z"
+  }
+]

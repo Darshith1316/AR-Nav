@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "user_id": "default_user",
+    "location": {
+      "lat": 34.0522,
+      "lng": -118.2437,
+      "address": "Los Angeles City Hall"
+    },
+    "speed": 0,
+    "heading": 0,
+    "accuracy": 10,
+    "timestamp": "2025-05-17T08:05:05.000Z"
+  }
+]
